@@ -55,10 +55,10 @@
 | 11 | Explain GitFlow, GitHub Flow, and Trunk-Based Development | ✅ Can do confidently |
 | 12 | Use GitHub CLI to create repos, PRs, and issues | ✅ Can do confidently |
 
+
 ---
 
 
----
 
 ## Task 2: Quick-Fire Questions — Answers
 
