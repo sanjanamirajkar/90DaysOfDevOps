@@ -57,7 +57,7 @@ echo "Hello"  # This is an inline comment
 
 | Syntax     | Description              | Example                       |
 |------------|-------------------------|-------------------------------|
-| `VAR=val`  | Assign value            | `NAME="Nandan"`               |
+| `VAR=val`  | Assign value            | `NAME="Sanjana"`               |
 | `$VAR`     | Use variable            | `echo $NAME`                  |
 | `"$VAR"`   | Preserves spaces        | `echo "$NAME"`                |
 | `'$VAR'`   | Literal string (no eval)| `echo '$NAME'` outputs `$NAME`|
@@ -241,7 +241,7 @@ greet() {
 ### Calling a Function
 
 ```bash
-greet "Nandan"
+greet "Sanjana"
 ```
 
 ### Passing Arguments to Functions
