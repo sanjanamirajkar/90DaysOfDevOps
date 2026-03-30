@@ -322,3 +322,5 @@ The rule is simple: **never work directly on `main`; always branch, then merge v
 | **Git** | Commit early, commit often; never force-push to shared branches; prefer `fetch` over `pull` |
 | **GitHub** | PRs are conversations, not just code reviews; protect `main` with branch rules |
 | **Developer Branding** | Your GitHub profile IS your resume — keep it clean and pinned repos relevant |
+
+---
