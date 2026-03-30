@@ -80,3 +80,5 @@ Selected 6 pinned repos that best represent my work:
 - GitHub is a living portfolio — it should always reflect what you're actively building
 - Organizing work into dedicated repos makes it easier to reference, share, and grow
 - Checking for exposed secrets should be a regular habit, not a one-time task
+
+---
