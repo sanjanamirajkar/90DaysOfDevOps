@@ -116,7 +116,7 @@ Installed Docker and Nginx and verified their services are running.
 Deployed a web server and confirmed access through the public IP.
 Learned how to extract and download server logs for monitoring and analysis.
 
-
+---
 
 
 
